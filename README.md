@@ -7,7 +7,7 @@ Built using **React + Vite + Manifest V3**.
 ## Youtube and Documentation Link 
 
  **YouTube:** [HighLight Extension](https://youtu.be/-4SaK5Ml8w4?si=u4GkVcPzWF41TYFh)
- **Document** [Google Drive Link](https://drive.google.com/file/d/1z7lvMmPMgOqLrZZathSfIMNdaSJeGm-5/view?usp=drivesdk)
+ **Documentation** [Google Drive Link](https://drive.google.com/file/d/1z7lvMmPMgOqLrZZathSfIMNdaSJeGm-5/view?usp=drivesdk)
 ---
 
 ##  Features
