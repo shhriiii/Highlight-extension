@@ -48,6 +48,9 @@ Built using **React + Vite + Manifest V3**.
 ```
 ### 1) Installation (Development Build)
 ```
+git clone https://github.com/shhriiii/Highlight-extension.git
+cd Highlight-extension
+npm install
 rm -rf dist
 npm install
 npm run build
