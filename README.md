@@ -35,11 +35,15 @@ Built using **React + Vite + Manifest V3**.
 ```json
 {
   "id": "uuid",
-  "url": "https://example.com",
-  "selectedText": "highlighted text",
-  "content": "user note",
-  "locator": {...},
-  "createdAt": 123456789
+  "url": "https://example.com/page",
+  "selectedText": "the exact text user selected",
+  "content": "user’s note text",
+  "locator": {
+    "prefix": "text that appears before the selected text",
+    "selectedText": "the exact highlighted text",
+    "suffix": "text that appears after the selected text"
+  },
+  "createdAt": 1712345678901
 }
 ```
 ### 1) Installation (Development Build)
