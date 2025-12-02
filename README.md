@@ -1,4 +1,4 @@
-# 📘 ContextMemo — Chrome Highlight & Notes Extension
+# ContextMemo — Chrome Highlight & Notes Extension
 
 ContextMemo is a Chrome extension that lets you **highlight text on any webpage**, attach notes to it, and automatically **restore your highlights** when you revisit the page.  
 Built using **React + Vite + Manifest V3**.
@@ -6,11 +6,8 @@ Built using **React + Vite + Manifest V3**.
 ---
 ## Youtube and Documentation Link 
 
- **YT:** [HighLight Extension](https://youtu.be/-4SaK5Ml8w4?si=u4GkVcPzWF41TYFh)
+ **YouTube:** [HighLight Extension](https://youtu.be/-4SaK5Ml8w4?si=u4GkVcPzWF41TYFh)
  **Document** [Google Drive Link](https://drive.google.com/file/d/1z7lvMmPMgOqLrZZathSfIMNdaSJeGm-5/view?usp=drivesdk)
-
-> Explore the live version of the platform and experience AI-powered agricultural assistance in action.
-
 ---
 
 ##  Features
